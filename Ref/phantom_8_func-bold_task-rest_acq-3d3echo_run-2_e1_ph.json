@@ -42,6 +42,7 @@
 	"FlipAngle": 45,
 	"EchoTime1": 0.013,
 	"EchoTime2": 0.0401,
+	"ReadPolarity": "Regular RO",
 	"PartialFourier": 0.875,
 	"BaseResolution": 76,
 	"ShimSetting": [
@@ -79,7 +80,6 @@
 	"EffectiveEchoSpacing": 0.000390002,
 	"DerivedVendorReportedEchoSpacing": 0.000780004,
 	"AcquisitionDuration": 1.205,
-	"NumberOfKSpaceTrajectories": 1,
 	"TotalReadoutTime": 0.0292502,
 	"PixelBandwidth": 1430,
 	"DwellTime": 4.6e-06,
@@ -92,6 +92,7 @@
 		0.124491,
 		-0.991809	],
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
+	"BidsGuess": ["func","_acq-5p4_dir-RL_run-8_echo-1_part-phase_bold"],
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20260627"
+	"ConversionSoftwareVersion": "v1.0.20261011"
 }
