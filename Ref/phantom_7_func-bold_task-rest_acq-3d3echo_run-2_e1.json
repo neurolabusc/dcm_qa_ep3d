@@ -32,7 +32,7 @@
 	"TablePosition": [
 		0,
 		0,
-		-0	],
+		0	],
 	"EchoNumber": 1,
 	"EchoTime": 0.013,
 	"RepetitionTime": 1.23636,
@@ -92,5 +92,5 @@
 	"InPlanePhaseEncodingDirectionDICOM": "ROW",
 	"BidsGuess": ["func","_acq-5p4_dir-RL_run-7_echo-1_bold"],
 	"ConversionSoftware": "dcm2niix",
-	"ConversionSoftwareVersion": "v1.0.20261011"
+	"ConversionSoftwareVersion": "v1.0.20261024"
 }
